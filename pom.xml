@@ -19,7 +19,7 @@
 
   <properties>
     <java.version>11</java.version>
-    <h2.version>2.0.206</h2.version>
+    <h2.version>2.1.210</h2.version>
     <lombok.version>1.18.10</lombok.version>
   </properties>
 
